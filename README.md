@@ -9,6 +9,8 @@ http://www.fontawesome.com.cn/faicons/
 https://icomoon.io/#preview-free
 * Glyphicon
 http://glyphicons.com/
+* Streamline Emoji：Streamline Emoji 是一款免费的可爱表情符文集，其中有超过780个矢量表情免费下载。
+http://emoji.streamlineicons.com/
 
 ##### 工具
 * processon：免费在线作图工具
