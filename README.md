@@ -11,6 +11,8 @@ https://icomoon.io/#preview-free
 http://glyphicons.com/
 * Streamline Emoji：Streamline Emoji 是一款免费的可爱表情符文集，其中有超过780个矢量表情免费下载。
 http://emoji.streamlineicons.com/
+* iconpng
+http://www.iconpng.com
 
 ##### 图片素材
 * 站酷：不仅仅有图片素材，还有PSD文件、图标素材、网页UI素材等设计中经常用的素材。
@@ -31,6 +33,25 @@ http://peek.space/
 http://travelcoffeebook.com/
 * Foodies：美食类图片。
 https://foodiesfeed.com/
+* Pexel：英文的免费图片网
+https:/www.pexels.com
+* 别样网：高质量无版权
+https://www.ssyer.com/
+* Facticon:免费向量图标网站
+https://www.flaticon.com
+* unsplash:此网站图片皆来源于个人拍摄，高清无码，最大特点就是可以免费商用
+https://unsplash.com
+* stocksnap:高清无水印，支持免费商用
+https://stocksnap.io/
+* creative vix:所有图片免费商用
+https://pexels.com/@creative-vix
+* gratisography:最大特点是创意，而且免费商用
+https://gratisography.com/
+* textures:免费高清贴图网
+https://www.textures.com/
+* desgindeck:免费高清的PSD图标网
+http://designdeckco.uk/
+
 
 ##### GIF素材
 * Giphy：国外gif搜索网站
