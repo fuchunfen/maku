@@ -50,8 +50,13 @@ https://gratisography.com/
 * textures:免费高清贴图网
 https://www.textures.com/
 * desgindeck:免费高清的PSD图标网
-http://designdeckco.uk/
-
+http://designdeck.co.uk/
+* thedesignwork:免费PSD和背景图
+http://www.thedesignwork.com/
+* dribbble:好看的web设计：图标、背景、PSD等，界面设计必去网站
+https://dribbble.com/
+* kisspng: png图标
+https://www.kisspng.com/
 
 ##### GIF素材
 * Giphy：国外gif搜索网站
@@ -71,3 +76,10 @@ https://lightpdf.com/zh/
 https://www.html5tricks.com/css3-3d-book-flip.html
 
 ##### 优秀网页
+
+
+##### 设计师必看网站
+* zcool:中国最具人气的设计师互动社区
+www.zcool.com.cn
+* UI:www.ui.cn
+* 优设：www.uisdc.com
