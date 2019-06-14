@@ -83,3 +83,21 @@ https://www.html5tricks.com/css3-3d-book-flip.html
 www.zcool.com.cn
 * UI:www.ui.cn
 * 优设：www.uisdc.com
+* Behance: www.behance.net
+
+##### UI框架
+* Vant：基于 Vue 2.0 的移动组件库
+
+##### 编程题库
+* 赛码：http://www.acmcoder.com/index
+* freecodecamp:https://www.freecodecamp.cn/
+* leetcode: https://leetcode-cn.com/
+* ScriptOJ：http://scriptoj.mangojuice.top/
+* codewars: https://www.codewars.com/
+
+##### 学习网站
+*egghead: https://egghead.io/
+*慕课：https://www.imooc.com/
+*极客学院：https://www.jikexueyuan.com/
+*实验楼： https://www.shiyanlou.com/
+*其它：youtube,bilibili,网易课堂，腾讯课堂
