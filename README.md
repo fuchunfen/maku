@@ -57,6 +57,8 @@ http://www.thedesignwork.com/
 https://dribbble.com/
 * kisspng: png图标
 https://www.kisspng.com/
+* 免费无版权可商用的高质量素材网: 包括插画、视频等素材
+https://mixkit.co/
 
 ##### GIF素材
 * Giphy：国外gif搜索网站
@@ -70,6 +72,9 @@ https://www.processon.com/
 http://blog.bahraniapps.com/gifcam/
 * lightpdf：在线PDF神器，可编辑pdf文件，支持将pdf文件转换成其他格式，什么合并分割添加水印文字识别啥的统统不在话下！无需安装注册，功能强大效果好，完全免费！
 https://lightpdf.com/zh/
+* 在线PS: https://ps.gaoding.com/
+* PDF文件处理工具：https://smallpdf.com/cn
+* 网格纸下载网站：https://www.wanggezhi.com/
 
 ##### CSS效果
 * 超酷逼真的CSS3 3D书本翻页动画
@@ -96,8 +101,9 @@ www.zcool.com.cn
 * codewars: https://www.codewars.com/
 
 ##### 学习网站
-*egghead: https://egghead.io/
-*慕课：https://www.imooc.com/
-*极客学院：https://www.jikexueyuan.com/
-*实验楼： https://www.shiyanlou.com/
-*其它：youtube,bilibili,网易课堂，腾讯课堂
+* egghead: https://egghead.io/
+* 慕课：https://www.imooc.com/
+* 极客学院：https://www.jikexueyuan.com/
+* 实验楼： https://www.shiyanlou.com/
+* 其它：youtube,bilibili,网易课堂，腾讯课堂
+* 算法可视化网站：https://visualgo.net/en
